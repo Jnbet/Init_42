@@ -1,0 +1,2 @@
+commande : nslookup 10.12.13.11 (on met l adresse IP trouver avec la commande precedente)
+resultat : 8.13.11.10.in-addr.arpa name = e1r13p8.42.fr. (il depend de la place ou on est dans le cluster)

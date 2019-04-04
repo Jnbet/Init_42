@@ -1,0 +1,2 @@
+(a) ifconfig | grep broadcast | rev | cut -d ' ' -f1 | rev
+(b) ifconfig en0 | grep 'inet ' | cut -d ' ' -f2

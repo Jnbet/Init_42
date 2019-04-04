@@ -1,0 +1,15 @@
+Taper sudo service --status-all et prendre les [+]
+
+Liste:
+cron
+dbus
+irqbalance
+kmod
+networking
+procps
+rsyslog
+ssh
+udev
+
+Type:
+Deamon

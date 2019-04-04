@@ -1,0 +1,5 @@
+#!/bin/bash
+sudo passwd -l patrick
+if [ sudo pgrep -u patrick ]
+	sudo killall -KILL -u patrick;
+sudo userdel -r patrick;
